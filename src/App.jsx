@@ -1,3 +1,4 @@
+import Content from "./Content"
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <>
-    
+      <Content />
     </>
   )
 }
