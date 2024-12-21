@@ -1,11 +1,11 @@
+import Btn from "./Btn"
 
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-    
+      <Btn />
     </>
   )
 }
